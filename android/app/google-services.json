@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009930985764",
+    "project_id": "sigma-wallet-76c4d",
+    "storage_bucket": "sigma-wallet-76c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009930985764:android:48782a44bea75a108a93b1",
+        "android_client_info": {
+          "package_name": "com.example.my_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009930985764-rjc66lv0oasnotbp9rteef7c53ib81lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr3_EoTh52wKjIPD1cdTiQEktkCmCyZfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009930985764-rjc66lv0oasnotbp9rteef7c53ib81lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
